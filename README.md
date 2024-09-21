@@ -7,3 +7,10 @@ Visual and audio notifications when a session ends.
 Progress bar to indicate time left in a session.
 Configurable long breaks after a set number of intervals.
 Responsive design, works on mobile and desktop.
+<br>
+<h1>Screenshots</h1>
+
+
+<div align="center">
+    <img src="/screenshots/screen1.png" width="400px"</img> 
+</div>
