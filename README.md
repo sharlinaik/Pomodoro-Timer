@@ -12,5 +12,5 @@ Responsive design, works on mobile and desktop.
 
 
 <div align="center">
-    <img src="/screenshots/screen1.png" width="400px"</img> 
+    <img src="screen1.png" width="400px"</img> 
 </div>
